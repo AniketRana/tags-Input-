@@ -9,7 +9,7 @@
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js'></script>
     <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/start/jquery-ui.css" />
     <script src="src/jquery.tagsinput.js" type="text/javascript"></script>
-    <style>
+    <style> 
         nput[type=text], textarea
         {
             -webkit-transition: all 0.30s ease-in-out;
