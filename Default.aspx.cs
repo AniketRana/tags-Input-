@@ -21,7 +21,7 @@ public partial class _Default : System.Web.UI.Page
         txtTo.Text = "0." + txtTo.Text;
         if (txtResult.Text == "")
         {
-            str = txtFrom.Text + "-" + txtTo.Text;
+            str = txtFrom.Text + "-" + txtTo.Text; 
         }
         else
         {
