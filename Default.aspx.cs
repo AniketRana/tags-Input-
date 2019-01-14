@@ -17,7 +17,7 @@ public partial class _Default : System.Web.UI.Page
     protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
     { 
         string str = ""; 
-        txtFrom.Text = "0." + txtFrom.Text; 
+        txtFrom.Text = "0." + txtFrom.Text;  
         txtTo.Text = "0." + txtTo.Text;
         if (txtResult.Text == "")
         {
