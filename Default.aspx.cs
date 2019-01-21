@@ -29,7 +29,7 @@ public partial class _Default : System.Web.UI.Page
         }
         txtResult.Text += str + ",";
         arr.Add(txtResult.Text.Split(',')); 
-        txtFrom.Text = "";
+        txtFrom.Text = ""; 
         txtTo.Text = "";  
     }
     //public void fill()
