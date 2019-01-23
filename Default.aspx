@@ -57,7 +57,7 @@
         <br>
     </div>
     </form>
-    <script type="text/javascript">
+    <script type="text/javascript"> 
 
         function onChangeTag(input, tag) {
             alert("Changed a tag: " + tag);
