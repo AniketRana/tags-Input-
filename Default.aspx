@@ -70,7 +70,7 @@
 
         $(function () {
 
-            $('#txtResult').tagsInput({ width: 'auto' });
+            $('#txtResult').tagsInput({ width: 'auto' });    
 
         });
 
