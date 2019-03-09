@@ -54,7 +54,7 @@
         <asp:TextBox Style="height:50px !Important; width: 200px !Important;" 
             ReadOnly="true" ID="txtResult" runat="server"></asp:TextBox>
         <br>
-        <br>
+        <br>             
     </div>
     </form>
     <script type="text/javascript"> 
