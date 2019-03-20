@@ -30,7 +30,7 @@
             border: 1px solid rgba(81, 203, 238, 1);
         }
     </style>
-</head>
+</head>  
 <body>
     <form id="form1" runat="server">
     <div style="color: white; background-color: Gray;">
@@ -66,7 +66,6 @@
             document.getElementById("<%=txtResult.ClientID %>").innerHTML = txtResult.Text = '';
             alert("Removed a tag: " + tag);
         }
-
 
         $(function () {
 
