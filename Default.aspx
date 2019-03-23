@@ -11,7 +11,7 @@
     <script src="src/jquery.tagsinput.js" type="text/javascript"></script>
     <style> 
         nput[type=text], textarea
-        {     
+        {      
             -webkit-transition: all 0.30s ease-in-out;
             -moz-transition: all 0.30s ease-in-out;
             -ms-transition: all 0.30s ease-in-out;
@@ -19,7 +19,7 @@
             outline: none;
             padding: 3px 0px 3px 3px;
             margin: 5px 1px 3px 0px;
-            border: 1px solid #DDDDDD;      
+            border: 1px solid #DDDDDD;              
         }           
                    
         input[type=text]:focus, textarea:focus
