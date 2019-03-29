@@ -18,7 +18,7 @@
             -o-transition: all 0.30s ease-in-out;
             outline: none;   
             padding: 3px 0px 3px 3px;
-            margin: 5px 1px 3px 0px;
+            margin: 5px 1px 3px 0px;  
             border: 1px solid #DDDDDD;              
         }           
                    
