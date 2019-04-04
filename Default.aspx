@@ -26,11 +26,11 @@
         { 
             box-shadow: 0 0 5px rgba(81, 203, 238, 1); 
             padding: 3px 0px 3px 3px;      
-            margin: 5px 1px 3px 0px;   
+            margin: 5px 1px 3px 0px;    
             border: 1px solid rgba(81, 203, 238, 1);
         }    
     </style>
-</head>  
+</head>        
 <body>
     <form id="form1" runat="server">
     <div style="color: white; background-color: Gray;">   
