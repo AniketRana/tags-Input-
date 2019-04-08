@@ -24,7 +24,7 @@ public partial class _Default : System.Web.UI.Page
             str = txtFrom.Text + "-" + txtTo.Text; 
         }     
         else
-        {
+        {  
             str =","+ txtFrom.Text + "-" + txtTo.Text;
         }
         txtResult.Text += str + ",";
