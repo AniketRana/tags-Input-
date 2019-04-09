@@ -19,7 +19,7 @@ public partial class _Default : System.Web.UI.Page
         string str = ""; 
         txtFrom.Text = "0." + txtFrom.Text;  
         txtTo.Text = "0." + txtTo.Text;
-        if (txtResult.Text == "")
+        if (txtResult.Text == "")  
         {
             str = txtFrom.Text + "-" + txtTo.Text; 
         }     
