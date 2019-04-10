@@ -22,7 +22,7 @@ public partial class _Default : System.Web.UI.Page
         if (txtResult.Text == "")  
         {
             str = txtFrom.Text + "-" + txtTo.Text; 
-        }     
+        }           
         else
         {  
             str =","+ txtFrom.Text + "-" + txtTo.Text;
