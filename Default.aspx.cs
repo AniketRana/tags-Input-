@@ -25,7 +25,7 @@ public partial class _Default : System.Web.UI.Page
         }           
         else
         {  
-            str =","+ txtFrom.Text + "-" + txtTo.Text;
+            str =","+ txtFrom.Text + "-" + txtTo.Text; 
         }
         txtResult.Text += str + ",";
         arr.Add(txtResult.Text.Split(',')); 
@@ -33,7 +33,7 @@ public partial class _Default : System.Web.UI.Page
         txtTo.Text = "";  
     }
     //public void fill()
-    //{
+    //{ 
     //    foreach (var item in arr)
     //    {         
     //        txtResult.Text += item.ToString();
