@@ -28,7 +28,7 @@ public partial class _Default : System.Web.UI.Page
             str =","+ txtFrom.Text + "-" + txtTo.Text; 
         }   
         txtResult.Text += str + ",";
-        arr.Add(txtResult.Text.Split(',')); 
+        arr.Add(txtResult.Text.Split(','));     
         txtFrom.Text = "";      
         txtTo.Text = "";  
     }
@@ -39,4 +39,4 @@ public partial class _Default : System.Web.UI.Page
     //        txtResult.Text += item.ToString();
     //    }
     //}
-}
+}      
