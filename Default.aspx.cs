@@ -31,7 +31,7 @@ public partial class _Default : System.Web.UI.Page
         arr.Add(txtResult.Text.Split(','));     
         txtFrom.Text = "";      
         txtTo.Text = "";  
-    }
+    }       
     //public void fill()
     //{ 
     //    foreach (var item in arr)
