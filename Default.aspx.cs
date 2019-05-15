@@ -20,7 +20,7 @@ public partial class _Default : System.Web.UI.Page
         txtFrom.Text = "0." + txtFrom.Text;  
         txtTo.Text = "0." + txtTo.Text;
         if (txtResult.Text == "")  
-        {
+        {     
             str = txtFrom.Text + "-" + txtTo.Text; 
         }           
         else       
@@ -39,4 +39,4 @@ public partial class _Default : System.Web.UI.Page
     //        txtResult.Text += item.ToString();
     //    }
     //}
-}                    
+}                       
