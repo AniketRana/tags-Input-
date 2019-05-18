@@ -8,7 +8,7 @@ using System.Data;
 using System.Collections;
  
 public partial class _Default : System.Web.UI.Page
-{   
+{         
     ArrayList arr = new ArrayList();
     protected void Page_Load(object sender, EventArgs e)
     {       
