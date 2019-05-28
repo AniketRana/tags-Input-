@@ -40,7 +40,7 @@
             </h1>
             <center>
     </div>
-    <div>
+    <div>      
         <br>
         <b>Carat Size </b>
         <asp:TextBox ID="txtFrom" required pattern="^\d*(\.\d{0,2})?$" runat="server" Placeholder="From"></asp:TextBox>
