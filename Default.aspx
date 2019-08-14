@@ -29,7 +29,7 @@
             margin: 5px 1px 3px 0px;         
             border: 1px solid rgba(81, 203, 238, 1);                     
         }      
-    </style>
+    </style>                 
 </head>        
 <body>
     <form id="form1" runat="server">   
