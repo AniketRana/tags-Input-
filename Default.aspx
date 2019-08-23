@@ -18,7 +18,7 @@
             -o-transition: all 0.30s ease-in-out;
             outline: none;           
             padding: 3px 0px 3px 3px;                                                          
-            margin: 5px 1px 3px 0px;                   
+            margin: 5px 1px 3px 0px;                                         
             border: 1px solid #DDDDDD;                                  
         }                             
                            
@@ -41,7 +41,7 @@
             <center>        
     </div>
     <div>      
-        <br>
+        <br>                   
         <b>Carat Size </b>
         <asp:TextBox ID="txtFrom" required pattern="^\d*(\.\d{0,2})?$" runat="server" Placeholder="From"></asp:TextBox>
         <asp:TextBox ID="txtTo" required pattern="^\d*(\.\d{0,2})?$" runat="server" Placeholder="To"></asp:TextBox>
