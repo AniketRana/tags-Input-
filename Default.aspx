@@ -36,7 +36,7 @@
     <div style="color: white; background-color: Gray;">   
         <center>
             <h1>
-                Tag Input Demo Application
+                Tag Input Demo Application           
             </h1>
             <center>        
     </div>
