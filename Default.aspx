@@ -31,7 +31,7 @@
         }      
     </style>                 
 </head>                                     
-<body>
+<body>          
     <form id="form1" runat="server">    
     <div style="color: white; background-color: Gray;">                     
         <center>
@@ -66,11 +66,8 @@
             document.getElementById("<%=txtResult.ClientID %>").innerHTML = txtResult.Text = '';
             alert("Removed a tag: " + tag);
         }
-
         $(function () {
-
-            $('#txtResult').tagsInput({ width: 'auto' });    
-                    
+            $('#txtResult').tagsInput({ width: 'auto' }); 
         });
     </script>
 </body>
