@@ -28,7 +28,7 @@
             padding: 3px 0px 3px 3px;                                                                    
             margin: 5px 1px 3px 0px;                                        
             border: 1px solid rgba(81, 203, 238, 1);                                      
-        }      
+        }                     
     </style>                 
 </head>                                     
 <body>          
@@ -54,7 +54,7 @@
         <asp:TextBox Style="height:50px !Important; width: 200px !Important;" 
             ReadOnly="true" ID="txtResult" runat="server"></asp:TextBox>
         <br>
-        <br>             
+        <br>                        
     </div>
     </form>                
     <script type="text/javascript"> 
