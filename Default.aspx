@@ -59,7 +59,7 @@
     </form>                
     <script type="text/javascript"> 
 
-        function onChangeTag(input, tag) {
+        function onChangeTag(input, tag) {         
             alert("Changed a tag: " + tag);
         }
         function onRemoveTag(tag) {
