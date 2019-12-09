@@ -39,7 +39,7 @@
                 Tag Input Demo Application           
             </h1>
             <center>        
-    </div> 
+    </div>               
     <div>      
         <br>                   
         <b>Carat Size </b>  
