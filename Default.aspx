@@ -70,6 +70,6 @@
             $('#txtResult').tagsInput({ width: 'auto' }); 
         });
     </script>
-</body>
+</body>          
 </html>
                                     
