@@ -34,7 +34,7 @@
 <body>                       
     <form id="form1" runat="server">    
     <div style="color: white; background-color: Gray;">                               
-        <center>
+        <center>         
             <h1>           
                 Tag Input Demo Application           
             </h1>
