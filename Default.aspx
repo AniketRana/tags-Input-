@@ -38,7 +38,7 @@
             <h1>           
                 Tag Input Demo Application           
             </h1>
-            <center>        
+            <center>               
     </div>                      
     <div>      
         <br>                   
